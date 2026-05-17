@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:AstolfoNS/twxct-backend.git
+	branch = main
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:AstolfoNS/twxct-frontend.git
+	branch = main
